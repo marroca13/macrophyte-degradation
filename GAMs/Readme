@@ -1,0 +1,3 @@
+GAMs were developed following these specifications:
+
+gam(Reflec~s(Wavelength, by=name),family=Gamma(link="identity",data=df)
